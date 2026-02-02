@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/afzal-surti-9904b2287/">LinkedIn</a> •
   <a href="https://github.com/AfzalSurti">GitHub</a> •
-  <a href="sandbox:/mnt/data/Afzal_Nasir_Surti.pdf">Resume (PDF)</a>
+  <a href="https://pdflink.to/eefffc11/">Resume (PDF)</a>
 </p>
 
 ---
