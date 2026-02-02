@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://afzal-surti.vercel.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/afzal-surti-9904b2287/">LinkedIn</a> •
   <a href="https://github.com/AfzalSurti">GitHub</a> •
   <a href="https://pdflink.to/eefffc11/">Resume (PDF)</a>
@@ -17,7 +18,31 @@
 - 🎓 BE in Computer Science @ The Maharaja Sayajirao University, Vadodara (CGPA: 8.69)
 - 💼 Full Stack Web Developer Intern @ Enlighten Infosystem (May 2025 – July 2025)
 - 🧠 I love building **production-ready web apps** and **AI-powered systems**
-- 🏆 Hackathon: On-site round at MumbaiHacks + Top 10 among 85+ teams (University Hackathon)
+
+---
+
+## 🏆 Achievements
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Hackathons
+- 🥇 **Top 79 / 750+ teams** — IDDO Hackathon (Selected for offline round)
+- 🏅 **On-site Qualifier** — MumbaiHacks Hackathon
+- 🥈 **Top 10 / 85+ teams** — University Hackathon
+
+</td>
+<td width="50%">
+
+### 🎓 Academic Excellence
+- 📊 **CGPA: 8.69** — BE Computer Science
+- 🏆 **GUJCET Rank 605** — State-level Engineering Entrance Exam
+- 💡 Focus on AI/ML & Full-Stack Development
+
+</td>
+</tr>
+</table>
 
 ---
 
