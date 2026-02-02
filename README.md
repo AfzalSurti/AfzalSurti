@@ -89,6 +89,14 @@
 
 ---
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/8023051357?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
