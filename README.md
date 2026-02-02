@@ -92,15 +92,16 @@
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfzalSurti&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfzalSurti&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfzalSurti&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfzalSurti&theme=radical" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfzalSurti&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfzalSurti&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfzalSurti&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
