@@ -1,6 +1,10 @@
 <!-- Profile README for AfzalSurti -->
 
-<h1 align="center">Hi, I'm Afzal Surti 👋</h1>
+<h1 align="center">
+  <img src="linkedin.png" alt="Afzal Surti" width="150" style="border-radius: 50%;" />
+  <br>
+  Hi, I'm Afzal Surti 👋
+</h1>
 <p align="center">
   Full-Stack Developer • AI/ML Builder • CS Undergrad (2023–2027)
 </p>
