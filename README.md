@@ -28,7 +28,7 @@
 <td width="50%">
 
 ### 🚀 Hackathons
-- 🥇 **Top 79 / 750+ teams** — IDDO Hackathon (Selected for offline round)
+- 🥇 **Top 79 / 750+ teams** — Odoo Hackathon (Selected for offline round)
 - 🏅 **On-site Qualifier** — MumbaiHacks Hackathon
 - 🥈 **Top 10 / 85+ teams** — University Hackathon
 
