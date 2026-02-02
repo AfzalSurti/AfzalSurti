@@ -128,10 +128,11 @@
 ⭐ If you like my work, consider following — it helps a lot!
 ---
 
-## 💼 Open for Freelance Work
+## 💼 Open for Freelance Work & Internships
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="Available"/>
+  <img src="https://img.shields.io/badge/Open%20for-Internships-blue?style=for-the-badge" alt="Internships"/>
 </p>
 
 I bring ideas to life with code. Whether you need a **production-ready web application**, **intelligent AI solutions**, or **scalable cloud infrastructure**, I've got you covered.
