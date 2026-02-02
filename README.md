@@ -126,3 +126,57 @@
 - Writing clean, maintainable, production-level code
 
 ⭐ If you like my work, consider following — it helps a lot!
+---
+
+## 💼 Open for Freelance Work
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="Available"/>
+</p>
+
+I bring ideas to life with code. Whether you need a **production-ready web application**, **intelligent AI solutions**, or **scalable cloud infrastructure**, I've got you covered.
+
+### 🚀 What I Deliver:
+
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/🌐-Web_Development-blue?style=flat-square" />
+<br><br>
+<b>Full-Stack Websites</b>
+<br>
+Modern, responsive web apps with React, Next.js, Node.js, and databases
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/🤖-AI_Agents-orange?style=flat-square" />
+<br><br>
+<b>AI Agents</b>
+<br>
+Intelligent automation systems, chatbots, and task-specific AI assistants
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/🧠-AI_Models-purple?style=flat-square" />
+<br><br>
+<b>Custom AI Models</b>
+<br>
+ML models for recommendations, NLP, computer vision, and predictive analytics
+</td>
+<td width="25%" align="center">
+<img src="https://img.shields.io/badge/☁️-Cloud_Deployment-green?style=flat-square" />
+<br><br>
+<b>Cloud Solutions</b>
+<br>
+Dockerized deployments, CI/CD pipelines, and scalable cloud architecture
+</td>
+</tr>
+</table>
+
+### ✨ Why Work With Me?
+- ⚡ **Fast turnaround** with quality code
+- 🎯 **Production-ready** solutions, not prototypes
+- 🔒 **Secure & scalable** architecture from day one
+- 💬 **Clear communication** throughout the project
+
+📩 **Let's build something amazing together!** Reach out at **surtiafzal915@gmail.com**
+
+---
