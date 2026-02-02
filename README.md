@@ -70,17 +70,17 @@
 ---
 
 ## 🔥 Featured Projects
-### 🛒 Surti Farsaan — E-Commerce Platform (PHP + MySQL)
+### [🛒 Surti Farsaan — E-Commerce Platform (PHP + MySQL)](https://github.com/AfzalSurti/surti-farsaan)
 - Full-stack e-commerce app with separate **Admin** + **Customer** panels
 - Product catalog, cart, checkout, order management + admin dashboard
 - Security best practices: sessions, validation, SQL-injection prevention
 
-### 🤖 Amazon Recommender — AI Product Recommendation System
+### [🤖 Amazon Recommender — AI Product Recommendation System](https://github.com/AfzalSurti/AmazonRecommender)
 - Scraped category-wise product data using Selenium + BeautifulSoup
 - Semantic search with Sentence Transformers (`all-MiniLM-L6-v2`)
 - Flask app for inference + clean UI, deployed with live product details
 
-### 📊 Log-Monitor Dashboard — Real-Time Server Monitoring
+### [📊 Log-Monitor Dashboard — Real-Time Server Monitoring](https://github.com/AfzalSurti/SystemProgramming)
 - C log parser → structured JSON incidents/metrics/alerts pipeline
 - Express API + live dashboard to visualize error trends & latency spikes
 - AI-generated alert summaries (Gemini API) + incident search/grouping
