@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="linkedin.png" alt="Afzal Surti" width="150" style="border-radius: 50%;" />
   <br>
-  Hi, I'm Afzal Surti 👋
+  Hi, I'm Afzal N. Surti 👋
 </h1>
 <p align="center">
   Full-Stack Developer • AI/ML Builder • CS Undergrad (2023–2027)
@@ -126,19 +126,39 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfzalSurti&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AfzalSurti&show_icons=true&theme=transparent&hide_border=true&title_color=00A3FF&text_color=9FB3C8&icon_color=38BDF8&rank_icon=github" alt="AfzalSurti GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalSurti&layout=donut&theme=transparent&hide_border=true&title_color=00A3FF&text_color=9FB3C8" alt="Top Languages by Repo" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfzalSurti&theme=radical" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfzalSurti&theme=radical&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfzalSurti&theme=transparent&hide_border=true&ring=22D3EE&fire=FACC15&currStreakLabel=22D3EE&currStreakNum=F8FAFC&dates=9FB3C8&sideLabels=9FB3C8&sideNums=F8FAFC" alt="AfzalSurti Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfzalSurti&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AfzalSurti&bg_color=020617&color=38BDF8&line=3B82F6&point=60A5FA&area=true&area_color=22C55E&hide_border=true&title_color=00A3FF" alt="AfzalSurti Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AfzalSurti&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AfzalSurti&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AfzalSurti&theme=github_dark" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AfzalSurti&theme=github_dark" alt="GitHub Stats Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AfzalSurti&theme=github_dark&utcOffset=5.5" alt="Commits by Time" />
+</p>
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="AfzalSurti 3D Contribution Graph" />
 </p>
 
 ---
