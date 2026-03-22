@@ -99,6 +99,11 @@
 ---
 
 ## 🔥 Featured Projects
+### [🏗️ Sankalp — Civil Engineering Operations Platform](https://github.com/AfzalSurti/roadway-ops-hub)
+- Centralized web platform replacing disconnected Excel workflows for civil project operations.
+- Covers task/project lifecycle, planning timelines, financial workflows (RA bills, excess/carry-forward), notifications, and reporting.
+- Built with React + TypeScript + Vite + Tailwind, Node.js + Express + TypeScript, Prisma (SQLite/PostgreSQL), JWT auth, and RBAC.
+
 ### [🛒 Surti Farsaan — E-Commerce Platform (PHP + MySQL)](https://github.com/AfzalSurti/surti-farsaan)
 - Full-stack e-commerce app with separate **Admin** + **Customer** panels
 - Product catalog, cart, checkout, order management + admin dashboard
@@ -113,8 +118,6 @@
 - C log parser → structured JSON incidents/metrics/alerts pipeline
 - Express API + live dashboard to visualize error trends & latency spikes
 - AI-generated alert summaries (Gemini API) + incident search/grouping
-
-> Want a pinned-project setup? Pin these repos on your GitHub profile.
 
 ---
 
