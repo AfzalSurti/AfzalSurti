@@ -291,10 +291,20 @@ Full compilation pipeline — lexer, parser, semantic analysis, IR generation, o
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AfzalSurti&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfzalSurti&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-daily/daily-commits-light.svg">
+  <img src="./profile-daily/daily-commits.svg" alt="Daily contributions — last 30 days" width="100%"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfzalSurti&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=9FB3C8&dates=9FB3C8" alt="Streak"/>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contributions over time" width="100%"/>
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="49%"/>
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commits by time of day" width="49%"/>
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most-committed languages" width="49%"/>
+
+<img src="https://streak-stats.demolab.com/?user=AfzalSurti&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=9FB3C8&dates=9FB3C8" alt="Streak"/>
 
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph"/>
 
